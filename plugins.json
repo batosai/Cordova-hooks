@@ -1,0 +1,10 @@
+{
+    "com.ionic.keyboard" : "https://github.com/driftyco/ionic-plugins-keyboard",
+    "org.apache.cordova.console" : "https://github.com/apache/cordova-plugin-console",
+    "org.apache.cordova.device" : "https://github.com/apache/cordova-plugin-device",
+    "nl.x-services.plugins.socialsharing": "https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git",
+    "org.apache.cordova.geolocation"     : "https://github.com/apache/cordova-plugin-geolocation.git",
+    "org.apache.cordova.splashscreen"    : "https://github.com/apache/cordova-plugin-splashscreen.git",
+    "org.apache.cordova.file"            : "https://github.com/apache/cordova-plugin-file.git",
+    "org.apache.cordova.file-transfer"   : "https://github.com/apache/cordova-plugin-file-transfer.git"
+}

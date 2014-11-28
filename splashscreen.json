@@ -1,0 +1,18 @@
+{
+    "splashscreen/android/drawable-land-hdpi/screen.png": "platforms/android/res/drawable-land-hdpi/screen.png",
+    "splashscreen/android/drawable-land-ldpi/screen.png": "platforms/android/res/drawable-land-ldpi/screen.png",
+    "splashscreen/android/drawable-land-mdpi/screen.png": "platforms/android/res/drawable-land-mdpi/screen.png",
+    "splashscreen/android/drawable-land-xhdpi/screen.png": "platforms/android/res/drawable-land-xhdpi/screen.png",
+    "splashscreen/android/drawable-port-hdpi/screen.png": "platforms/android/res/drawable-port-hdpi/screen.png",
+    "splashscreen/android/drawable-port-ldpi/screen.png": "platforms/android/res/drawable-port-ldpi/screen.png",
+    "splashscreen/android/drawable-port-mdpi/screen.png": "platforms/android/res/drawable-port-mdpi/screen.png",
+    "splashscreen/android/drawable-port-xhdpi/screen.png": "platforms/android/res/drawable-port-xhdpi/screen.png",
+
+    "splashscreen/ios/Default@2x~iphone.png": "platforms/ios/hautefort/Resources/splash/Default@2x~iphone.png",
+    "splashscreen/ios/Default-568h@2x~iphone.png": "platforms/ios/hautefort/Resources/splash/Default-568h@2x~iphone.png",
+    "splashscreen/ios/Default~iphone.png": "platforms/ios/hautefort/Resources/splash/Default~iphone.png",
+    "splashscreen/ios/Default-Portrait~ipad.png": "platforms/ios/hautefort/Resources/splash/Default-Portrait~ipad.png",
+    "splashscreen/ios/Default-Portrait@2x~ipad.png": "platforms/ios/hautefort/Resources/splash/Default-Portrait@2x~ipad.png",
+    "splashscreen/ios/Default-Landscape@2x~ipad.png": "platforms/ios/hautefort/Resources/splash/Default-Landscape@2x~ipad.png",
+    "splashscreen/ios/Default-Landscape~ipad.png": "platforms/ios/hautefort/Resources/splash/Default-Landscape~ipad.png"
+}
